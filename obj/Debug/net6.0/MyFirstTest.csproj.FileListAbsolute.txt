@@ -1,0 +1,15 @@
+C:\Users\Викуля\Desktop\MyFirstTest\bin\Debug\net6.0\MyFirstTest.exe
+C:\Users\Викуля\Desktop\MyFirstTest\bin\Debug\net6.0\MyFirstTest.deps.json
+C:\Users\Викуля\Desktop\MyFirstTest\bin\Debug\net6.0\MyFirstTest.runtimeconfig.json
+C:\Users\Викуля\Desktop\MyFirstTest\bin\Debug\net6.0\MyFirstTest.dll
+C:\Users\Викуля\Desktop\MyFirstTest\bin\Debug\net6.0\MyFirstTest.pdb
+C:\Users\Викуля\Desktop\MyFirstTest\obj\Debug\net6.0\MyFirstTest.csproj.AssemblyReference.cache
+C:\Users\Викуля\Desktop\MyFirstTest\obj\Debug\net6.0\MyFirstTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Викуля\Desktop\MyFirstTest\obj\Debug\net6.0\MyFirstTest.AssemblyInfoInputs.cache
+C:\Users\Викуля\Desktop\MyFirstTest\obj\Debug\net6.0\MyFirstTest.AssemblyInfo.cs
+C:\Users\Викуля\Desktop\MyFirstTest\obj\Debug\net6.0\MyFirstTest.csproj.CoreCompileInputs.cache
+C:\Users\Викуля\Desktop\MyFirstTest\obj\Debug\net6.0\MyFirstTest.dll
+C:\Users\Викуля\Desktop\MyFirstTest\obj\Debug\net6.0\refint\MyFirstTest.dll
+C:\Users\Викуля\Desktop\MyFirstTest\obj\Debug\net6.0\MyFirstTest.pdb
+C:\Users\Викуля\Desktop\MyFirstTest\obj\Debug\net6.0\MyFirstTest.genruntimeconfig.cache
+C:\Users\Викуля\Desktop\MyFirstTest\obj\Debug\net6.0\ref\MyFirstTest.dll
